@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "SnackScope2025_icon.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "SnackScope2025_Dark.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
