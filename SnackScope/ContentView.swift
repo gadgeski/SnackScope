@@ -8,7 +8,7 @@
 import SwiftUI
 
 struct ContentView: View {
-    // GadgetDataを参照する変数
+    // SnackDataを参照する変数
     var snackDataList = SnackData()
     
     // 入力された文字列を保持する状態変数
